@@ -40,7 +40,7 @@ Here are the languages and tools I work with:
 ---
 
 ## 🔭 Projects I'm Proud Of
-- **[Bionic Arm](https://github.com/your-repo/bionic-arm)**: A robotic arm mimicking real-time human hand movements using flex sensors and accelerometer.
+- **[Bionic Arm](https://github.com/stefanroman22/stefanroman22/tree/Robot-Arm-Documentation)**: A robotic arm mimicking real-time human hand movements using flex sensors and accelerometer.
 - **[Portfolio Website](https://your-portfolio-link.com)**: A showcase of my work, built using React and Bootstrap CSS.
 
 ![Projects](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
