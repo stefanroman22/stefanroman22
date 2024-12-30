@@ -19,7 +19,7 @@ This project presents a robotic arm that mimics the real-time movements of a hum
 6. [Future Improvements](#future-improvements)
 7. [Acknowledgments](#acknowledgments)
 
-## **1. Hardware Requirements ##
+## 1. Hardware Requirements ##
 
 ### Components
 - **Robotic Arm**: Pre-assembled arm structure with 5 servo motors:
@@ -38,7 +38,7 @@ This project presents a robotic arm that mimics the real-time movements of a hum
 ![image](https://github.com/user-attachments/assets/a28a1941-3ff4-42d1-b0aa-fa572033c736)
 
 
-## **2. Software Setup ##
+## 2. Software Setup ##
 
 ### Prerequisites:
 - Python 3.x installed on your PC.
@@ -50,6 +50,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-repo/bionic-arm.git
 cd bionic-arm
+````
 
 ## **3. Usage Instructions**
 
