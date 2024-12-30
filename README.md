@@ -65,8 +65,8 @@ Feel free to reach out via:
 
 ## ⚡ Fun Fact
 - I once debugged a codebase for 12 hours straight and found the issue was a single misplaced semicolon! 😄
-- ![Dissapointed]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1nOGRldTV6NnRxczZkazRkMDM4anhscHJ2a3g3NmkxbzI4NzllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqBA0sKASToB5ZK/giphy.gif))
-  
+![Dissapointed](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1nOGRldTV6NnRxczZkazRkMDM4anhscHJ2a3g3NmkxbzI4NzllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqBA0sKASToB5ZK/giphy.gif)
+
 ---
 
 Thank you for stopping by! 😊 Let's build something amazing together!
