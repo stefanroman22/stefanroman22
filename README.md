@@ -59,7 +59,7 @@ I'm exploring:
 Looking to collaborate on exciting projects or contribute to open-source initiatives! 
 Feel free to reach out via:
 - 📧 Email: [stefanromanpers@gmail.com](mailto:stefanromanpers@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/stefan-roman-1911a9211/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/stefan-roman-1911a9211/)]
 
 ---
 
