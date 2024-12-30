@@ -58,13 +58,14 @@ I'm exploring:
 ## 🤝 Let's Collaborate
 Looking to collaborate on exciting projects or contribute to open-source initiatives! 
 Feel free to reach out via:
-- 📧 Email: [stefanromanpers@gmail.com](mailto:stefanromanpers@gmail.com)
+- 📧 [stefanromanpers@gmail.com](mailto:stefanromanpers@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefan-roman-1911a9211/)
 
 ---
 
 ## ⚡ Fun Fact
 - I once debugged a codebase for 12 hours straight and found the issue was a single misplaced semicolon! 😄
+  (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1nOGRldTV6NnRxczZkazRkMDM4anhscHJ2a3g3NmkxbzI4NzllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqBA0sKASToB5ZK/giphy.gif)
 
 ---
 
