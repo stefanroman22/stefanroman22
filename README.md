@@ -58,7 +58,7 @@ I'm exploring:
 ## 🤝 Let's Collaborate
 Looking to collaborate on exciting projects or contribute to open-source initiatives! 
 Feel free to reach out via:
-- 📧 [stefanromanpers@gmail.com](mailto:stefanromanpers@gmail.com)
+- 📧 [Mail](mailto:stefanromanpers@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefan-roman-1911a9211/)
 
 ---
