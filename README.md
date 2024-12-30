@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hi! I'm **[Your Name]**, a Computing Science student at **Radboud University**, with an expected graduation date of **June 2025**. I'm passionate about technology, software development, and creating meaningful projects that combine logic and creativity.
+Hi! I'm **Stefan Roman**, a Computing Science student at **Radboud University**, with an expected graduation date of **June 2025**. I'm passionate about technology, software development, and creating meaningful projects that combine logic and creativity.
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
