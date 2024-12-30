@@ -34,8 +34,9 @@ This project presents a robotic arm that mimics the real-time movements of a hum
 - **Power Supply**: 5V DC
 - **Intermediate Servo Controller Board**: For wiring organization and isolation.
 
-### Circuit Diagram
-Include a detailed circuit diagram here.
+### Robot Components
+![image](https://github.com/user-attachments/assets/a28a1941-3ff4-42d1-b0aa-fa572033c736)
+
 
 ## Software Setup
 
