@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **Stefan Roman**
 
 🎓 Recent Computer Science graduate (Radboud University) - graduated in July 2025
+
 💻 Aspiring **Software Engineer** seeking **Full-Stack / Frontend / Backend** opportunities
 
 ---
