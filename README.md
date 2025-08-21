@@ -60,9 +60,9 @@ I once debugged code for **12 hours** just to find a misplaced semicolon...
 
 ---
 
-## 🏀 Hobbies
-- Basketball  
-- Football (Soccer)  
-- Ping-Pong  
-- Travelling ✈️  
-- Movies 🎬  
+## 🎯 Hobbies
+- 🏀 Basketball  
+- ⚽ Football (Soccer)  
+- 🏓 Ping-Pong  
+- ✈️ Travelling  
+- 🎬 Movies  
