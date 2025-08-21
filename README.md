@@ -34,14 +34,19 @@
 ---
 
 ## 📂 Personal Projects
-- 🔗 [Graph Algorithms and Data Structures Visualization Tool](#https://github.com/stefanroman22/Algorithms-and-Data-Structures---Visualization-Tool) – Developed interactive animation using D3.js 
-- 🔗 [Robot Arm](#https://github.com/stefanroman22/robot-arm) – Robotic Arm controlled via flex sensors and an accelerometer  
+
+- 🔗 [Graph Algorithms & Data Structures Visualization Tool](https://github.com/stefanroman22/Algorithms-and-Data-Structures---Visualization-Tool)  
+  An interactive learning platform built with **D3.js**, featuring dynamic visualizations of graph algorithms (BFS, DFS, Dijkstra, Kruskal, etc.) and data structures to help students understand complex concepts intuitively.  
+
+- 🔗 [Robot Arm](https://github.com/stefanroman22/robot-arm)  
+  A **bionic robotic arm** controlled using **flex sensors** and an **accelerometer**, programmed in Python to replicate real-time hand movements.  
 
 ---
 
 ## 📫 How to reach me
-- 📧 Email: **stefanromanpers@gmail.com*  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/stefan-roman-1911a9211/)  
+
+- 📧 [stefanromanpers@gmail.com](mailto:stefanromanpers@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefan-roman-1911a9211/)  
 - 🌐 [Portfolio Website](#)  
 
 ---
